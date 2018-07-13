@@ -1,5 +1,6 @@
 # FTLforOCSSD_hotcoldseperation
 Team LAST Graduation Project
+마지막조 
 
 Open Channel SSD를 위한 FTL을 개발한다
 
