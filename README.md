@@ -11,4 +11,5 @@ https://github.com/OpenChannelSSD
 
 *
 
-Hot/Cold Page Seperation 기법을 개발, FTL에 적용하여 OCSSD의 성능을 향상시킨다.
+Hot/Cold Page Seperation 기법을 개발, FTL에 적용하여 OCSSD의 성능을 향상시킨다. 
+세희
